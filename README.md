@@ -1,4 +1,4 @@
-# games-app
+# wx-echarts
 
 ## 安装依赖（推荐使用yarn）
 
