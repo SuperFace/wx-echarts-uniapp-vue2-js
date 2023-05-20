@@ -1,0 +1,14 @@
+{
+    "tabBar": {
+        "color": "#919eae",
+        "height": "76px",
+        "selectedColor": "#343434",
+        "fontSize":"13px",
+        "iconWidth": "32px",
+        "backgroundColor": "#fefefe",
+        "borderStyle": "white",
+        "list": [
+          
+        ]
+    }
+}
